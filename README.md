@@ -1,6 +1,6 @@
 # 2401.-Longest-Nice-Subarray
 
-Medium
+# Medium
 
 You are given an array nums consisting of positive integers.
 
@@ -12,7 +12,7 @@ A subarray is a contiguous part of an array.
 
 Note that subarrays of length 1 are always considered nice.
 
-# Example 1:
+Example 1:
 
 Input: nums = [1,3,8,48,10]
 
@@ -25,7 +25,7 @@ Explanation: The longest nice subarray is [3,8,48]. This subarray satisfies the 
 
 It can be proven that no longer nice subarray can be obtained, so we return 3.
 
-# Example 2:
+Example 2:
 
 Input: nums = [3,1,5,11,13]
 
